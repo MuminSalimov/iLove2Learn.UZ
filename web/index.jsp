@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
+  Привет, МИР!
   $END$
   </body>
 </html>
